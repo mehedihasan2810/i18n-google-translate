@@ -1,9 +1,8 @@
 {
-  "server-component": {
-    "welcome": "Welcome"
+  "welcome": {
+    "welcome": "Welcome. How are you"
   },
-  "counter": {
-    "increment": "Increment",
-    "decrement": "Decrement"
+  "blog": {
+    "static": "Hi this is static translate"
   }
 }
